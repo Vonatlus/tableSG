@@ -1,1 +1,1 @@
-[DEVO](https://vonatlus.github.io/tablesg/)
+[DEMO](https://vonatlus.github.io/tablesg/)
